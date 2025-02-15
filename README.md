@@ -3,7 +3,7 @@
 <image style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;" src="/img/miniatura.png" alt="Vital 360: Sitio web dedicado a cuidado personal, salud y bienestar">
 
 ## Link
-
+https://vital360wellness.netlify.app
 
 
 ## Descripción
